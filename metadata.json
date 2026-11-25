@@ -1,0 +1,6 @@
+{
+  "name": "WaySwitch",
+  "description": "Suburban train and bus backup route planner that turns live delays, noisy inputs, and conflicting crowd updates into verified backup plans in seconds.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
